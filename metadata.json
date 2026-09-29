@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Autonomous Jarvis AI Assistant with instant voice command execution, full screen neon lighting, natural female voice, and screen automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
